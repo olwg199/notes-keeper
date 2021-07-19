@@ -1,8 +1,1 @@
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Simple React app to write some notes. You can check application out via this link: https://olwg199.github.io/notes-keeper/ .
